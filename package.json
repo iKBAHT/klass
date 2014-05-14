@@ -2,8 +2,8 @@
   "name": "klass",
   "description": "Class provider with classical inheritance interface",
   "version": "1.4.0",
-  "homepage": "https://github.com/ded/klass",
-  "author": "Dustin Diaz <polvero@gmail.com> (http://dustindiaz.com)",
+  "homepage": "https://github.com/iKBAHT/klass",
+  "author": "Adelmurzin Ilnur <iKBAHT@gmail.com>, Maslov Denis <denphobos@gmail.com>",
   "main": "./klass.js",
   "ender": "./src/ender.js",
   "keywords": [
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ded/klass.git"
+    "url": "https://github.com/iKBAHT/klass.git"
   },
   "engines": {
     "node": ">= 0.4.0"
